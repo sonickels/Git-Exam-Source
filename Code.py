@@ -55,4 +55,7 @@ def alyssa():
 	return surname
 
 def willy():
+	return "wazoo"
+
+def ben():
 	return "bitdiddle"
