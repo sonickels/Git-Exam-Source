@@ -51,6 +51,5 @@ def rcos():
 	return "Rensselaer Center for Open Source"
 
 def alyssa_p():
-	surname = "hapck.er"
-	remove = ". p"
-	return "".join(letter for letter in surname if letter not in remove)
+	surname = "p. hacker"
+	return surname
