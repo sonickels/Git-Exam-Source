@@ -53,3 +53,6 @@ def rcos():
 def alyssa():
 	surname = "p. hacker"
 	return surname
+
+def willy():
+	return "bitdiddle"
